@@ -54,8 +54,10 @@ Sou Técnico em Informática pelo SENAI/SC, cursei também o Bacharelado em Mate
 <h2>Estatísticas do GitHub</h2>
 
 <div align="center">
-  <img src="https://github.com/jeidsan/jeidsan/blob/github-cintribution-grid-snake.svg" />
-  
+  <img src="https://github.com/jeidsan/jeidsan/blob/output/github-cintribution-grid-snake.svg" />
+</div>
+
+<div align="center">    
   <a href="https://github.com/jeidsan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeidsan&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Jeidsan" />
   </a>
