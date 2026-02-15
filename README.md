@@ -29,7 +29,7 @@
 
 <h2>Sobre mim</h2>
 
-Sou Técnico em Informática pelo SENAI/SC, cursei também o Bacharelado em Matemática na UFBa e o Bacharelado em Ciência da Computação na FURB. Atuo como Analista de Sistemas na área financeira, realizo pesquisas nas áreas de Estatística e Inteligência Artificial aplicada à área de Saúde Coletiva e me considero um entusiasta do Open Finance 🙃.
+Antropólogo e cientista da computação, me dedico à pesquisa científica e ao desenvolvimento de software para diversos fins. Ao longo dos anos, pude colaborar com projetos em diversas áreas, desde sistemas financeiros até aplicações de inteligência artifical na área de saúde mental.
 
 <h2>Ferramentas e Tecnologias</h2>
 
@@ -53,17 +53,15 @@ Sou Técnico em Informática pelo SENAI/SC, cursei também o Bacharelado em Mate
 
 <h2>Estatísticas do GitHub</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
-
-
 <div align="center">    
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeidsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeidsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 <div>
 <div align="center">
-  <img height="180em" src="https://github.com/Jeidsan/jeidsan/blob/output/github-contribution-grid-snake.svg" />  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 </div>
