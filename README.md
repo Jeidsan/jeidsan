@@ -59,12 +59,10 @@ Sou Técnico em Informática pelo SENAI/SC, cursei também o Bacharelado em Mate
 
 
 <div align="center">    
-  <a href="https://github.com/jeidsan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeidsan&show_icons=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Jeidsan" />
-  </a>
-  <a href="https://github.com/jeidsan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeidsan&layout=compact&include_all_commits=true&count_private=true" alt="Linguagens mais utilizadas por Jeidsan" />
-  </a>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeidsan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeidsan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 <div>
 <div align="center">
   <img height="180em" src="https://github.com/Jeidsan/jeidsan/blob/output/github-contribution-grid-snake.svg" />  
